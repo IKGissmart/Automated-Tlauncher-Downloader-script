@@ -1,4 +1,6 @@
-#!/bin/bash 
+#!/bin/bash
+cd
+cd Downloads
 mkdir Tlauncher 
 cd Tlauncher 
 
