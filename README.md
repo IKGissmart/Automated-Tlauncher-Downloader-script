@@ -1,6 +1,7 @@
 # Automated-Tlauncher-Downloader-script
-Download Tlauncher Latest version with just a script in seconds 
-#To Clone The Repository 
+Download Tlauncher Latest version with just a script in seconds
+
+To Clone the Repository , simply run this command 
 ```
 git clone https://github.com/IKGissmart/Automated-Tlauncher-Downloader-script
 ```
@@ -8,7 +9,7 @@ Now Go into the Directory by
 ```
 cd Automated-Tlauncher-Downloader-script
 ``` 
-Now Mark it as an executable by 
+Now Mark the Script as an executable by 
 ```
 chmod a+x Automated_TLH_Downloader.sh 
 ```` 
