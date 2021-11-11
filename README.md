@@ -1,5 +1,5 @@
 # Automated-Tlauncher-Downloader-script
-Download Tlauncher Latest version with jdk-16 with just a script in seconds
+#### Download Tlauncher Latest version with jdk-17 with just a script in seconds
 
 To Clone the Repository , simply run this command 
 ```
